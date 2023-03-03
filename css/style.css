@@ -87,3 +87,10 @@
   font-family: tipotres;
   font-size: 30px;
 }
+
+.container-fluid.sizenav {
+  max-width: 960px;
+}
+.logototal {
+  width: 150px;
+}
