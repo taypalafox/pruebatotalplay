@@ -18,6 +18,10 @@
   src: url("/fonts/Montserrat-ExtraLight.ttf");
 }
 
+.container {
+  max-width: 960px;
+}
+
 a {
   color: white !important;
   text-decoration: none;
